@@ -1,2 +1,7 @@
-.ipynb_checkpoints/homework1-checkpoint.ipynb
-.ipynb_checkpoints/homework2-checkpoint.ipynb
+#.ipynb_checkpoints/homework1-checkpoint.ipynb
+#.ipynb_checkpoints/homework2-checkpoint.ipynb
+.ipynb_checkpoints
+.bin
+/mlruns
+/output
+/home/ubuntu/.prefect
